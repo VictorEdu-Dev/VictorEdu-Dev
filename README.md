@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Victor Eduardo
 
 ## About Me
-- 👀 I’m interested in backend development, especially with Java and related technologies.
+- 👀 I’m interested in backend development, especially with Java and Jakarta Web Profile.
 - 🌱 I’m currently learning advanced topics in Jakarta EE, Spring MVC, and Hibernate.
 - 💞️ I’m looking to collaborate on projects involving Java, PostgreSQL, MySQL, and other backend technologies.
 - 📫 How to reach me: 
