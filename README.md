@@ -23,7 +23,7 @@
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=eclipse,java,c,html,css,git,github,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=intellij,java,c,html,css,git,github,postgres&theme=dark" />
 
 <h3>Contact Me</h3>
 <div align="left">
