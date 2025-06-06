@@ -21,7 +21,7 @@
 ## 💻 My Stack
 <div align="center">
   
-![Stack](https://skillicons.dev/icons?i=idea,clion,docker,aws,java,spring,c,html,css,git,github,postgres&theme=dark)
+![Stack](https://skillicons.dev/icons?i=idea,clion,docker,gcp,java,spring,c,html,css,git,github,postgres&theme=dark)
 
 </div>
 
