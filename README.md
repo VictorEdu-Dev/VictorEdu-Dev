@@ -15,7 +15,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VictorEdu-Dev&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0&cache_seconds=5&hide=R,Jupyter%20Notebook,OR" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEdu-Dev&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0&cache_seconds=1&hide=R,Jupyter%20Notebook,OR" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorEdu-Dev&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0&cache_seconds=1&hide=Jupyter%20Notebook,R,MATLAB,Scilab,Assembly,TeX,HTML,DataWeave" />
 </p>
 
 ## 💻 My Stack
